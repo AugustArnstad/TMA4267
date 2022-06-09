@@ -2,4 +2,4 @@
 Linear Statistical Models.
 Random vectors. Multivariate normal distribution. Multiple linear regression. Analysis of variance. Multiple hypothesis testing. Design of experiments.
 
-You'll find both the project descriptions and the complete projects
+You'll find both the project descriptions and the complete projects. The final project corresponds to assignment 3
